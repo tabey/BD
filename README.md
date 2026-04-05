@@ -1,0 +1,2 @@
+# BD
+Bakalauro baigiamasis darbas
